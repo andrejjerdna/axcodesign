@@ -41,7 +41,7 @@
    универсально для всех секций ограждения, или может быть изменена
    индивидуально для каждой отдельной секции (см. п. 3).
 
-.. figure:: https://github.com/andrejjerdna/axcodesign/blob/master/1.1.PNG
+.. figure:: /pic/1.1.PNG
    :alt: 
 
 Рис. 1.1.
