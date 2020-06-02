@@ -46,7 +46,6 @@
    :align: center
 
 Рис. 1.1.
-:align: center
 
 .. _header-n26:
 
