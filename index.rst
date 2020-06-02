@@ -4,7 +4,5 @@
 ========
 1. Ограждение к площадкам и лестницам по серии ВС107-А.
 ========
-here is a pdf file :download:`Ограждение к площадкам и лестницам по серии ВС107-А. <ВС107-А.rst>`
-
-:doc:'ВС107-А\index.rst'
+It refers to the section itself, see :ref:`my-reference-label`.
 
