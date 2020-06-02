@@ -74,10 +74,13 @@
 
 6. Последовательность ввода номеров секций не важна.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\2.1.png
+.. figure:: /pic/2.1.png
    :alt: 
 
 Рис. 2.1.
+
+.. figure:: /pic/2.2.png
+   :alt: 
 
 Рис. 2.2.
 
@@ -99,7 +102,7 @@
 3. Введите номер секции ограждения - точка - требуемую привязку стоек
    секции ограждения.
 
-   Например: 3.400 (см. рис. 2.2);
+   Например: 3.400 (см. рис. 3.2);
 
 4. Вводить данные параметры можно сразу для нескольких секций.
    Индивидуальные настройки привязки стоек секций должны быть разделены
@@ -107,12 +110,12 @@
 
 5. Последовательность ввода номеров секций не важна.
 
-   .. figure:: G:\SmartPlugins\Documentation\pic\2.1.png
+   .. figure:: /pic/2.1.png
       :alt: 
 
    Рис.3.1.
 
-   .. figure:: G:\SmartPlugins\Documentation\pic\3.2.PNG
+   .. figure:: /pic/3.2.PNG
       :alt: 
 
    Рис.3.2.
@@ -144,12 +147,12 @@
 
    Данную настройку желательно применять до внесения прочих изменений, так как после смены ориентации ограждения потребуются изменения во все ранее введенные индивидуальные настройки элементов ограждения.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\4.1.PNG
+.. figure:: /pic/4.1.PNG
    :alt: 
 
 Рис. 4.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\4.2.PNG
+.. figure:: /pic/4.2.PNG
    :alt: 
 
 Рис. 4.2.
@@ -170,7 +173,7 @@
 
    При втором типе ориентации поручня (повернутый поручень), есть ограничения по применяемым узлам стыка поручня по длине и на поворотах.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\5.1.PNG
+.. figure:: /pic/5.1.PNG
    :alt: 
 
 Рис. 5.1.
@@ -198,17 +201,17 @@
    L40 и менее), то стыковочная планка не создаётся, поручни стыкуют
    только регулированием подрезки (см. рис. 6.3).
 
-.. figure:: G:\SmartPlugins\Documentation\pic\6.1.PNG
+.. figure:: /pic/6.1.PNG
    :alt: 
 
 Рис. 6.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\6.2.PNG
+.. figure:: /pic/6.2.PNG
    :alt: 
 
 Рис 6.2.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\6.3.PNG
+.. figure:: /pic/6.3.PNG
    :alt: 
 
 Рис 6.3.
@@ -236,12 +239,12 @@
 5. Поле ввода белого цвета предназначено для верхних поручней
    ограждения, серого цвета - для нижних поручней ограждения.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\7.1.PNG
+.. figure:: /pic/7.1.PNG
    :alt: 
 
 Рис. 7.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\7.2.PNG
+.. figure:: /pic/7.2.PNG
    :alt: 
 
 Рис. 7.2.
@@ -273,12 +276,12 @@
 
 4. Последовательность ввода номеров узлов не важна.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\8.1.PNG
+.. figure:: /pic/8.1.PNG
    :alt: 
 
 Рис. 8.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\8.2.PNG
+.. figure:: /pic/8.2.PNG
    :alt: 
 
 Рис. 8.2.
@@ -308,12 +311,12 @@
 
 6. Последовательность ввода номеров узлов не важна.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\9.1.PNG
+.. figure:: /pic/9.1.PNG
    :alt: 
 
 Рис. 9.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\9.2.PNG
+.. figure:: /pic/9.2.PNG
    :alt: 
 
 Рис. 9.2.
@@ -343,12 +346,12 @@
 5. Поле ввода белого цвета предназначено для верхних поручней
    ограждения, серого цвета - для нижних поручней ограждения.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\10.1.PNG
+.. figure:: /pic/10.1.PNG
    :alt: 
 
 Рис. 10.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\10.2.PNG
+.. figure:: /pic/10.2.PNG
    :alt: 
 
 Рис. 10.2.
@@ -374,7 +377,7 @@
 4. Поле ввода белого цвета предназначено для верхних предохранительных
    планок, серого цвета - для нижних предохранительных планок.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\11.1.PNG
+.. figure:: /pic/11.1.PNG
    :alt: 
 
 Рис. 11.1.
@@ -405,12 +408,12 @@
 5. Плагин позволяет регулировать длину прямого стыковочного участка,
    зазор между соединяемыми элементами (см. рис. 12.2).
 
-.. figure:: G:\SmartPlugins\Documentation\pic\12.1.PNG
+.. figure:: /pic/12.1.PNG
    :alt: 
 
 Рис. 12.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\12.2.PNG
+.. figure:: /pic/12.2.PNG
    :alt: 
 
 Рис. 12.2.
@@ -434,12 +437,12 @@
 
 4. Длина уголка равна высоте предохранительной полосы.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\13.1.PNG
+.. figure:: /pic/13.1.PNG
    :alt: 
 
 Рис. 13.1.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\13.2.PNG
+.. figure:: /pic/13.2.PNG
    :alt: 
 
 Рис 13.2.
@@ -462,7 +465,7 @@
 3. При задании отрицательных значений, поручни или предохранительная
    полоса будут подрезаны в противоположную сторону от точки вставки.
 
-.. figure:: G:\SmartPlugins\Documentation\pic\14.1.PNG
+.. figure:: /pic/14.1.PNG
    :alt: 
 
 Рис. 14.1.
