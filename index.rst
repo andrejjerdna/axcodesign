@@ -43,6 +43,7 @@
 
 .. figure:: /pic/1.1.PNG
    :alt: 
+   :align: center
 
 Рис. 1.1.
 
@@ -76,11 +77,13 @@
 
 .. figure:: /pic/2.1.png
    :alt: 
+   :align: center
 
 Рис. 2.1.
 
 .. figure:: /pic/2.2.png
    :alt: 
+   :align: center
 
 Рис. 2.2.
 
@@ -112,11 +115,13 @@
 
    .. figure:: /pic/2.1.png
       :alt: 
+	  :align: center
 
    Рис.3.1.
 
    .. figure:: /pic/3.2.PNG
       :alt: 
+	  :align: center
 
    Рис.3.2.
 
@@ -149,11 +154,13 @@
 
 .. figure:: /pic/4.1.PNG
    :alt: 
+   :align: center
 
 Рис. 4.1.
 
 .. figure:: /pic/4.2.PNG
    :alt: 
+   :align: center
 
 Рис. 4.2.
 
@@ -175,6 +182,7 @@
 
 .. figure:: /pic/5.1.PNG
    :alt: 
+   :align: center
 
 Рис. 5.1.
 
@@ -203,16 +211,19 @@
 
 .. figure:: /pic/6.1.PNG
    :alt: 
+   :align: center
 
 Рис. 6.1.
 
 .. figure:: /pic/6.2.PNG
    :alt: 
+   :align: center
 
 Рис 6.2.
 
 .. figure:: /pic/6.3.PNG
    :alt: 
+   :align: center
 
 Рис 6.3.
 
@@ -241,11 +252,13 @@
 
 .. figure:: /pic/7.1.PNG
    :alt: 
+   :align: center
 
 Рис. 7.1.
 
 .. figure:: /pic/7.2.PNG
    :alt: 
+   :align: center
 
 Рис. 7.2.
 
@@ -278,11 +291,13 @@
 
 .. figure:: /pic/8.1.PNG
    :alt: 
+   :align: center
 
 Рис. 8.1.
 
 .. figure:: /pic/8.2.PNG
    :alt: 
+   :align: center
 
 Рис. 8.2.
 
@@ -313,6 +328,7 @@
 
 .. figure:: /pic/9.1.PNG
    :alt: 
+   :align: center
 
 Рис. 9.1.
 
@@ -348,11 +364,13 @@
 
 .. figure:: /pic/10.1.PNG
    :alt: 
+   :align: center
 
 Рис. 10.1.
 
 .. figure:: /pic/10.2.PNG
    :alt: 
+   :align: center
 
 Рис. 10.2.
 
@@ -379,6 +397,7 @@
 
 .. figure:: /pic/11.1.PNG
    :alt: 
+   :align: center
 
 Рис. 11.1.
 
@@ -410,11 +429,13 @@
 
 .. figure:: /pic/12.1.PNG
    :alt: 
+   :align: center
 
 Рис. 12.1.
 
 .. figure:: /pic/12.2.PNG
    :alt: 
+   :align: center
 
 Рис. 12.2.
 
@@ -439,11 +460,13 @@
 
 .. figure:: /pic/13.1.PNG
    :alt: 
+   :align: center
 
 Рис. 13.1.
 
 .. figure:: /pic/13.2.PNG
    :alt: 
+   :align: center
 
 Рис 13.2.
 
@@ -467,5 +490,6 @@
 
 .. figure:: /pic/14.1.PNG
    :alt: 
+   :align: center
 
 Рис. 14.1.
