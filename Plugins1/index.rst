@@ -26,21 +26,21 @@
 
 5. В меню выбора есть возможность замены типа фаски на прямой скос. Значение размера фаски в случае круглых задает - радиус скоса, в случае прямых скосов - величину фаски скоса во всех направлениях (см.  рис. 3).
 
-   .. figure:: /ВС107-А-Plugins/pic/1.1.png
-      :alt: 
-     :align: center
+.. figure:: /Plugins1/pic/1.1.PNG
+   :alt: 
+   :align: center
 
 Рис. 1.
 
-   .. figure:: /ВС107-А-Plugins/pic/1.2.png
-      :alt: 
-     :align: center
+.. figure:: /Plugins1/pic/1.2.PNG
+   :alt: 
+   :align: center
 
 Рис. 2.
 
-   .. figure:: /ВС107-А-Plugins/pic/1.3.png
-      :alt: 
-     :align: center
+.. figure:: /Plugins1/pic/1.3.PNG
+   :alt: 
+   :align: center
 
 Рис. 3.
 
@@ -56,9 +56,9 @@
 .. note::
    В случае задания свойств болтов необходимо сначала выбрать стандарт болтов, после этого есть возможность выбора диаметра болтов.
 
-   .. figure:: /ВС107-А-Plugins/pic/1.4.png
-      :alt: 
-     :align: center
+.. figure:: /Plugins1/pic/1.4.PNG
+   :alt: 
+   :align: center
 
 Рис. 4.
 
@@ -69,15 +69,15 @@
 
 2. В случаеи примыкания пластины непосредственно к стенке швеллера, есть возможность регулирования нижней и верхней граней относительно балки (см.  рис. 6).
 
-   .. figure:: /ВС107-А-Plugins/pic/1.5.png
-      :alt: 
-     :align: center
+.. figure:: /Plugins1/pic/1.5.PNG
+   :alt: 
+   :align: center
 
 Рис. 5.
 
-   .. figure:: /ВС107-А-Plugins/pic/1.6.png
-      :alt: 
-     :align: center
+.. figure:: /Plugins1/pic/1.6.PNG
+   :alt: 
+   :align: center
 
 Рис. 6.
 
