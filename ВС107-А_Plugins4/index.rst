@@ -27,13 +27,13 @@
 
 4. Привязка опорного уголка осуществляется к краям стойки ограждения.
 
-.. figure:: /ВС107-А_Plugins3/pic/4.1.png
+.. figure:: /ВС107-А_Plugins4/pic/4.1.png
    :alt: 
    :align: center
 
 Рис. 1.
 
-.. figure:: /ВС107-А_Plugins3/pic/4.2.png
+.. figure:: /ВС107-А_Plugins4/pic/4.2.png
    :alt: 
    :align: center
 
