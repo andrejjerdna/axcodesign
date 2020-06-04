@@ -1,30 +1,30 @@
 Плагины axcodesign.
 ===================
-.. figure:: /ico/1.png
+.. figure:: /ico/1.bmp
    :alt: 
    :align: center
 ========
 :ref:`Ограждение к площадкам и лестницам по серии ВС107-А`
 ========
-.. figure:: /ico/p1.png
+.. figure:: /ico/p1.bmp
    :alt: 
    :align: center
 ========
 :ref:`Крепление стоек ограждения к балке сбоку.`
 ========
-.. figure:: /ico/p2.png
+.. figure:: /ico/p2.bmp
    :alt: 
    :align: center
 ========
 :ref:`Крепление стоек ограждения к балке сверху через пластину.`
 ========
-.. figure:: /ico/p3.png
+.. figure:: /ico/p3.bmp
    :alt: 
    :align: center
 ========
 :ref:`Крепление стоек ограждения к балке сверху через уголок (тип 1).`
 ========
-.. figure:: /ico/p4.png
+.. figure:: /ico/p4.bmp
    :alt: 
    :align: center
 ========
