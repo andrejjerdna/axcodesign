@@ -1,6 +1,6 @@
 Плагины axcodesign.
 ===================
-.. figure:: /ico/1.png
+.. figure:: /ico/1.bmp
    :alt: 
    :align: center
 ========
